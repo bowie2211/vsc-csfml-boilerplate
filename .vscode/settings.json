@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "esbonio.sphinx.confDir": "",
+    "files.associations": {
+        "math.h": "c",
+        "corecrt_math.h": "c"
+    }
+}
